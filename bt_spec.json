@@ -1,0 +1,27 @@
+[
+    {"Selector or Sequence": []},
+    {"Action": ""},
+    {"Condition": ["var", "op", "value"]},
+    
+    {
+        "Selector": [
+            {
+                "Action": "hello"
+            },
+            {
+                "Sequence": [
+                    {
+                        "Condition": ["life", ">", "80"]
+                    },
+                    {
+                        "Action": "attack"
+                    }
+                ]
+            },
+            {
+                "Action": "escape"
+            }
+        ]
+    }
+    
+]

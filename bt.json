@@ -1,0 +1,1 @@
+{"Selector": [{"Sequence": [{"Condition": ["life", ">", "80"]}, {"Action": "attack"}]},{"Action": "escape"}]}
